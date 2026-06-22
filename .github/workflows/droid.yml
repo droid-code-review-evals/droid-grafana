@@ -38,3 +38,4 @@ jobs:
         with:
           factory_api_key: ${{ secrets.FACTORY_API_KEY }}
           review_model: "glm-5.2"
+          show_full_output: true
